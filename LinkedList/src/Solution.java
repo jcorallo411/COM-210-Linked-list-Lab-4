@@ -1,4 +1,4 @@
-class ListNode {
+class ListNode {  // Odd Linked List
     int val;
     ListNode next;
     ListNode() {}
